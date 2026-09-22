@@ -1,0 +1,56 @@
+REACT FLOW / HARD RULES
+=======================
+Authority: current user request > selected project contract > linked React
+toolkit contract > relevant model rule card > this operator flow. Report a
+conflict; never invent a third pattern. Read README.txt first on cold boot.
+
+R1  CALL the exact indexed React toolkit key through the Box runner. Trust
+    its input and result contract. Inspect the exact owner/catalog only when
+    a call blocks, is unavailable, or contradicts its contract.
+R2  LOOK UP existing atoms, components and pages through the configured
+    inventory before creating one. Missing/invalid manifest != empty catalog.
+R3  USE stamps for owned shapes. Supply required inputs and atom decisions;
+    let stamps create files. Never hand-copy a scaffold or overwrite output.
+R4  FILL a stamp's required inputs and dependencies first. After its files
+    exist, add only requested custom behavior under project rules. Repair a
+    repeatable broken canonical shape at its owning stamp; never restamp blindly.
+R5  BUILD missing class skins with the linked action/container atom stamps.
+    Use effect for --effect-* tokens and grid for data-grid CSS; neither is a
+    class atom. Names include action-/container-/effect-/grid- themselves.
+R6  KEEP atoms to skin and shared tokens. Components/pages own markup,
+    structure and local layout. Resolve every new class to its atom or local
+    CSS; do not use styling classes as behavior addresses.
+R7  USE registered data-grid/data-area vocabulary. Target exact seats or
+    unambiguous named areas. Preserve semantic data-area. Keep construction
+    seats until their separate cleanup is requested; UI-kit finalization does
+    not remove them.
+R8  CREATE components/pages with PascalCase ownership. Use the stamped
+    anatomy first; return for custom behavior only after the shape exists.
+    Put reusable mechanics in its owner, not a parallel generator.
+R9  REQUIRE linked toolkit React stamps for React creation. NEVER silently
+    fall back to a Box React stamp. Use Box only for the shared runner,
+    delegated child tools, and audits absent from this toolkit.
+    Resolve every child input before writing; never bypass the runner to save
+    time or hide a failed child.
+R10 RECORD each execution ID, status, duration, child receipt and output path.
+    Box records belong in user-home .rab; source files belong in the selected
+    project. Runner completion is not the review verdict. The Toolbox uses this
+    same Tool House runner; do not create a parallel execution path.
+R11 AFTER stamps and custom work, RUN applicable code-review and audit tools;
+    then apply only relevant model rule cards to their facts. Fix findings and
+    rerun affected reviews. Unknown/unavailable is not a pass.
+R12 RUN narrow preflight syntax/import and exact-key checks before writing when
+    the task asks for working tools/imports. After building, run a focused
+    build/runtime check if requested; avoid broad test suites unless separately
+    requested. Never claim build, runtime or visual proof from a review pass.
+R13 REPORT concise per-hit progress and final gaps: created/reused artifacts,
+    exact paths, receipts, hard failures, approval-needed findings and unknowns.
+R14 WHEN the request asks for process tracking, keep a chronological attempt
+    -> observed failure -> exact fix -> retry verdict journal, with execution
+    IDs and timings from runner receipts. A failed write may be partial:
+    inspect its output before retrying. Never relabel an unchecked or
+    unavailable result as a pass.
+R15 TREAT this README/RULES pair as method only. The live user request is the
+    sole source of project scope, layout, components and acceptance criteria.
+    Do not execute a project described in past examples or conversation unless
+    the current user request explicitly starts that run.
